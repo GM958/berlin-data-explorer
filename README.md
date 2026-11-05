@@ -4,3 +4,4 @@ The Berlin Data Explorer project aims to transform complex public data into acce
 ## Resources
 
 - [Pitch deck](https://docs.google.com/presentation/d/1NE-9GjfqrP_0ueFX15fJG0GAOQPRQ5Q8/edit#slide=id.p1)
+- [Presentation] (https://docs.google.com/presentation/d/14zxwQ6DekBZPEp9lI3J8gUEVsR-asfyW/edit?usp=sharing&ouid=117993556917794176616&rtpof=true&sd=true)
