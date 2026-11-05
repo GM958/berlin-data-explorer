@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+geopandas
+ipywidgets
+Fiona
